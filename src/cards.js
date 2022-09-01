@@ -23,7 +23,7 @@
           "text": "Return all Energy cards attached to Absol G to your hand. The Defending Pokémon is Knocked Out at the end of your opponent's next turn."
         }
       ],
-      "weaknesses": [{ "type": "Fighting", "value": "×2" }],
+      "weaknesses": [{ "type": "Fighting", "value": "*2" }],
       "resistances": [{ "type": "Psychic", "value": "-20" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
@@ -116,7 +116,7 @@
           "text": "During your opponent's next turn, prevent all effects, including damage, done to Aerodactyl by attacks from your opponent's Pokémon-ex."
         }
       ],
-      "weaknesses": [{ "type": "Lightning", "value": "×2" }],
+      "weaknesses": [{ "type": "Lightning", "value": "*2" }],
       "resistances": [{ "type": "Fighting", "value": "-30" }],
       "set": {
         "id": "ex12",
@@ -197,7 +197,7 @@
           "text": "Search your deck for Weedle and put it onto your Bench. Shuffle your deck afterward."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -356,7 +356,7 @@
           "text": "Flip a coin for each Water Energy attached to Azumarill. This attack does 20 damage plus 20 more damage for each heads."
         }
       ],
-      "weaknesses": [{ "type": "Lightning", "value": "×2" }],
+      "weaknesses": [{ "type": "Lightning", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -439,7 +439,7 @@
           "text": "Search your deck for a Grass Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -517,7 +517,7 @@
           "text": "Remove from Venusaur the number of damage counters equal to the damage you did to the Defending Pokémon."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 4,
       "set": {
@@ -596,7 +596,7 @@
           "text": "If you have more Prize cards left than your opponent, this attack does 20 damage plus 20 more damage."
         }
       ],
-      "weaknesses": [{ "type": "Fighting", "value": "×2" }],
+      "weaknesses": [{ "type": "Fighting", "value": "*2" }],
       "resistances": [{ "type": "Psychic", "value": "-30" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
@@ -688,7 +688,7 @@
           "text": "During your opponent's next turn, any damage done to Aggron by attacks is reduced by 20 (after applying Weakness and Resistance)."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "resistances": [{ "type": "Psychic", "value": "-20" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 4,
@@ -781,7 +781,7 @@
           "text": "If the Defending Pokémon is an Evolved Pokémon, this attack does 50 damage plus 30 more damage."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "set": {
         "id": "ex11",
         "name": "Delta Species",
@@ -868,7 +868,7 @@
           "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
         }
       ],
-      "weaknesses": [{ "type": "Psychic", "value": "×2" }],
+      "weaknesses": [{ "type": "Psychic", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
       "set": {
@@ -1041,7 +1041,7 @@
           "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
         }
       ],
-      "weaknesses": [{ "type": "Dragon", "value": "×2" }],
+      "weaknesses": [{ "type": "Dragon", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -1218,7 +1218,7 @@
           "text": "If you have any Benched Pokémon and if there are any basic Energy cards attached to Ampharos, take 1 of those Energy cards and attach it to 1 of those Pokémon."
         }
       ],
-      "weaknesses": [{ "type": "Fighting", "value": "×2" }],
+      "weaknesses": [{ "type": "Fighting", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -1299,7 +1299,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Water", "value": "×2" }],
+      "weaknesses": [{ "type": "Water", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -1471,7 +1471,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Grass", "value": "×2" }],
+      "weaknesses": [{ "type": "Grass", "value": "*2" }],
       "resistances": [{ "type": "Fighting", "value": "-30" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
@@ -1571,7 +1571,7 @@
           "text": "Heal all damage from this Pokémon. If this Pokémon has at least 1 extra Grass Energy attached to it (in addition to this attack's cost), shuffle all cards from your discard pile into your deck. (You can't use more than 1 GX attack in a game.)"
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 4,
       "set": {
@@ -1653,7 +1653,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -1918,7 +1918,7 @@
           "text": "During your opponent's next turn, if this Pokémon would be damaged by an attack, prevent that attack's damage done to this Pokémon if that damage is 60 or less."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -2003,7 +2003,7 @@
           "text": "You may discard any number of Fire Energy cards attached to Arcanine when you use this attack. If you do, flip a number of coins equal to the number of Fire Energy cards you discarded. This attack does 30 damage plus 30 more damage for each heads."
         }
       ],
-      "weaknesses": [{ "type": "Water", "value": "×2" }],
+      "weaknesses": [{ "type": "Water", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
       "set": {
@@ -2084,7 +2084,7 @@
           "text": "If there is any Stadium card in play, this attack does 40 damage plus 30 more damage."
         }
       ],
-      "weaknesses": [{ "type": "Colorless", "value": "×2" }],
+      "weaknesses": [{ "type": "Colorless", "value": "*2" }],
       "resistances": [{ "type": "Fighting", "value": "-20" }],
       "set": {
         "id": "hgss4",
@@ -2337,7 +2337,7 @@
           "text": "Each Defending Pokémon is now Asleep."
         }
       ],
-      "weaknesses": [{ "type": "Colorless", "value": "×2" }],
+      "weaknesses": [{ "type": "Colorless", "value": "*2" }],
       "resistances": [
         { "type": "Grass", "value": "-30" },
         { "type": "Fighting", "value": "-30" }
@@ -2431,7 +2431,7 @@
           "text": "Does 40 damage plus 10 more damage for each Water Energy attached to Blastoise but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
         }
       ],
-      "weaknesses": [{ "type": "Lightning", "value": "×2" }],
+      "weaknesses": [{ "type": "Lightning", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
       "set": {
@@ -2514,7 +2514,7 @@
           "text": "If your opponent has any Water Pokémon in play, this attack does 30 damage plus 30 more damage."
         }
       ],
-      "weaknesses": [{ "type": "Water", "value": "×2" }],
+      "weaknesses": [{ "type": "Water", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -2599,7 +2599,7 @@
           "text": "Choose 1 of your opponent's Pokémon. This attack does 40 damage to that Pokémon. If that Pokémon already has damage counters on it, this attack does 60 damage instead. (Don't apply Weakness and Resistance for Benched Pokémon.)"
         }
       ],
-      "weaknesses": [{ "type": "Psychic", "value": "×2" }],
+      "weaknesses": [{ "type": "Psychic", "value": "*2" }],
       "set": {
         "id": "ex11",
         "name": "Delta Species",
@@ -2778,7 +2778,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -2856,7 +2856,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "resistances": [{ "type": "Water", "value": "-20" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
@@ -2937,7 +2937,7 @@
           "text": "Flip a coin. If tails, this attack does nothing."
         }
       ],
-      "weaknesses": [{ "type": "Grass", "value": "×2" }],
+      "weaknesses": [{ "type": "Grass", "value": "*2" }],
       "resistances": [{ "type": "Lightning", "value": "-30" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
@@ -3021,7 +3021,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
       "set": {
@@ -3121,7 +3121,7 @@
           "text": "Discard all Lightning Energy attached to Dark Ampharos."
         }
       ],
-      "weaknesses": [{ "type": "Fighting", "value": "×2" }],
+      "weaknesses": [{ "type": "Fighting", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -3212,7 +3212,7 @@
           "text": "Switch this Pokémon with 1 of your Benched Pokémon."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
       "set": {
@@ -3363,7 +3363,7 @@
           "text": "Choose 1 of your opponent's Pokémon. This attack does 60 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) During your next turn, Aggron can't use Bound Crush."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "resistances": [{ "type": "Grass", "value": "-30" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 4,
@@ -3453,7 +3453,7 @@
           "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
         }
       ],
-      "weaknesses": [{ "type": "Lightning", "value": "×2" }],
+      "weaknesses": [{ "type": "Lightning", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -3545,7 +3545,7 @@
           "text": "If the Defending Pokémon is a Basic Pokémon, that Pokémon is now Confused."
         }
       ],
-      "weaknesses": [{ "type": "Darkness", "value": "×2" }],
+      "weaknesses": [{ "type": "Darkness", "value": "*2" }],
       "resistances": [{ "type": "Fighting", "value": "-30" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
@@ -3624,7 +3624,7 @@
           "name": "Slam",
           "cost": ["Grass", "Colorless"],
           "convertedEnergyCost": 2,
-          "damage": "30×",
+          "damage": "30*",
           "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
         },
         {
@@ -3635,7 +3635,7 @@
           "text": "Heal 20 damage from this Pokémon."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
       "set": {
@@ -3737,7 +3737,7 @@
           "text": "This attack does 50 damage to each of your opponent's Pokémon. If this Pokémon has at least 2 extra Energy attached to it (in addition to this attack's cost), heal all damage from all of your Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)"
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
       "set": {
@@ -3821,7 +3821,7 @@
           "text": "During your next turn, this Pokémon can't use Solar Typhoon."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
       "set": {
@@ -3905,7 +3905,7 @@
           "text": "Flip a coin. If tails, this attack does nothing."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -3990,7 +3990,7 @@
           "text": "Flip a coin. If heads, this attack does 10 more damage."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -4088,7 +4088,7 @@
           "text": "If the Defending Pokémon already has any damage counters on it, this attack does 50 damage plus 20 more damage."
         }
       ],
-      "weaknesses": [{ "type": "Water", "value": "×2" }],
+      "weaknesses": [{ "type": "Water", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -4170,7 +4170,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -4262,7 +4262,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -4516,7 +4516,7 @@
           "text": "Choose a type of Energy other than Colorless attached to Mew. This attack does 20 damage to each of your opponent's Pokémon of that type (including Benched Pokémon). Don't apply Weakness and Resistance."
         }
       ],
-      "weaknesses": [{ "type": "Psychic", "value": "×2" }],
+      "weaknesses": [{ "type": "Psychic", "value": "*2" }],
       "set": {
         "id": "si1",
         "name": "Southern Islands",
@@ -4595,7 +4595,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fighting", "value": "×2" }],
+      "weaknesses": [{ "type": "Fighting", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -4686,7 +4686,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "resistances": [{ "type": "Water", "value": "-20" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
@@ -4778,7 +4778,7 @@
           "text": "You may discard a Claw Fossil, Mysterious Fossil, Root Fossil, or Holon Fossil from your hand. If you do, choose 1 of your opponent's Benched Pokémon and do 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
         }
       ],
-      "weaknesses": [{ "type": "Grass", "value": "×2" }],
+      "weaknesses": [{ "type": "Grass", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
       "set": {
@@ -4869,7 +4869,7 @@
           "text": "Discard 3 Fire Energy cards attached to Blaine's Arcanine in order to use this attack."
         }
       ],
-      "weaknesses": [{ "type": "Water", "value": "×2" }],
+      "weaknesses": [{ "type": "Water", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
       "set": {
@@ -4950,7 +4950,7 @@
           "text": "Heal 20 damage from 1 of your Pokémon."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -5035,7 +5035,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Dragon", "value": "×2" }],
+      "weaknesses": [{ "type": "Dragon", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -5120,7 +5120,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -5211,7 +5211,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Lightning", "value": "×2" }],
+      "weaknesses": [{ "type": "Lightning", "value": "*2" }],
       "resistances": [{ "type": "Fighting", "value": "-30" }],
       "set": {
         "id": "si1",
@@ -5299,7 +5299,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Colorless", "value": "×2" }],
+      "weaknesses": [{ "type": "Colorless", "value": "*2" }],
       "resistances": [
         { "type": "Grass", "value": "-30" },
         { "type": "Fighting", "value": "-30" }
@@ -5387,7 +5387,7 @@
           "text": "Flip a coin. If heads, this attack does 30 more damage."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "resistances": [{ "type": "Water", "value": "-20" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
@@ -5479,7 +5479,7 @@
           "text": "Discard the top card of your deck."
         }
       ],
-      "weaknesses": [{ "type": "Dragon", "value": "×2" }],
+      "weaknesses": [{ "type": "Dragon", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -5558,7 +5558,7 @@
           "text": "Choose 1 of your opponent's Benched Pokémon. This attack does 40 damage to that Pokémon. Apply Weakness and Resistance."
         }
       ],
-      "weaknesses": [{ "type": "Darkness", "value": "×2" }],
+      "weaknesses": [{ "type": "Darkness", "value": "*2" }],
       "resistances": [{ "type": "Colorless", "value": "-20" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
@@ -5644,7 +5644,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Lightning", "value": "×2" }],
+      "weaknesses": [{ "type": "Lightning", "value": "*2" }],
       "resistances": [{ "type": "Fighting", "value": "-20" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
@@ -5743,7 +5743,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -5826,7 +5826,7 @@
           "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -5920,7 +5920,7 @@
           "text": "Your opponent's Active Pokémon is now Asleep."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -5996,7 +5996,7 @@
           "type": "Pokémon Power"
         }
       ],
-      "weaknesses": [{ "type": "Fighting", "value": "×2" }],
+      "weaknesses": [{ "type": "Fighting", "value": "*2" }],
       "resistances": [{ "type": "Psychic", "value": "-30" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
@@ -6080,7 +6080,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -6164,7 +6164,7 @@
           "text": "This Pokémon does 10 damage to itself."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -6256,7 +6256,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Lightning", "value": "×2" }],
+      "weaknesses": [{ "type": "Lightning", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -6348,7 +6348,7 @@
           "text": "Flip a coin. If heads, choose 1 of your opponent's Pokémon. This attack does 40 damage to that Pokémon. Don't apply Weakness and Resistance for this attack. (Any other effects that would happen after applying Weakness and Resistance still happen.)"
         }
       ],
-      "weaknesses": [{ "type": "Water", "value": "×2" }],
+      "weaknesses": [{ "type": "Water", "value": "*2" }],
       "resistances": [{ "type": "Fighting", "value": "-30" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
@@ -6435,7 +6435,7 @@
           "text": "This attack's damage isn't affected by Weakness, Resistance, Poké-Power, Poké-Bodies, or any other effects on the Defending Pokémon."
         }
       ],
-      "weaknesses": [{ "type": "Psychic", "value": "×2" }],
+      "weaknesses": [{ "type": "Psychic", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -6621,7 +6621,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fighting", "value": "×2" }],
+      "weaknesses": [{ "type": "Fighting", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -6712,7 +6712,7 @@
           "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage. If tails, this attack does 20 damage and the defending Pokémon is now Paralyzed."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "set": {
         "id": "ecard2",
         "name": "Aquapolis",
@@ -6799,7 +6799,7 @@
           "text": "Does 30 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
         }
       ],
-      "weaknesses": [{ "type": "Lightning", "value": "×2" }],
+      "weaknesses": [{ "type": "Lightning", "value": "*2" }],
       "resistances": [{ "type": "Fighting", "value": "-30" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
@@ -6887,11 +6887,11 @@
           "name": "Twineedle",
           "cost": ["Grass", "Grass"],
           "convertedEnergyCost": 2,
-          "damage": "50×",
+          "damage": "50*",
           "text": "Flip 2 coins. This attack does 50 damage times the number of heads."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "set": {
         "id": "xy5",
         "name": "Primal Clash",
@@ -6968,7 +6968,7 @@
           "text": "Heal 30 damage from 1 of your Pokémon."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -7047,7 +7047,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Water", "value": "×2" }],
+      "weaknesses": [{ "type": "Water", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -7128,7 +7128,7 @@
           "text": "The Defending Pokémon is now Poisoned."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -7284,7 +7284,7 @@
           "text": "Discard 2 Psychic Energy attached to Deoxys and remove 6 damage counters from Deoxys."
         }
       ],
-      "weaknesses": [{ "type": "Psychic", "value": "×2" }],
+      "weaknesses": [{ "type": "Psychic", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -7447,7 +7447,7 @@
           "text": "Chansey does 80 damage to itself."
         }
       ],
-      "weaknesses": [{ "type": "Fighting", "value": "×2" }],
+      "weaknesses": [{ "type": "Fighting", "value": "*2" }],
       "resistances": [{ "type": "Psychic", "value": "-30" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
@@ -7530,7 +7530,7 @@
           "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
         }
       ],
-      "weaknesses": [{ "type": "Psychic", "value": "×2" }],
+      "weaknesses": [{ "type": "Psychic", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -7704,7 +7704,7 @@
           "text": "Flip a coin. If heads, this attack does 30 more damage."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 4,
       "set": {
@@ -7789,7 +7789,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -7969,7 +7969,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -8062,7 +8062,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
       "set": {
@@ -8149,7 +8149,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fighting", "value": "×2" }],
+      "weaknesses": [{ "type": "Fighting", "value": "*2" }],
       "resistances": [{ "type": "Psychic", "value": "-30" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
@@ -8237,7 +8237,7 @@
           "text": "Choose a number of your opponent's Stage 1 or Stage 2 Evolved Pokémon up to the amount of Energy attached to Jirachi. Remove the highest Stage Evolution card from each of those Pokémon and put those cards back into your opponent's hand."
         }
       ],
-      "weaknesses": [{ "type": "Psychic", "value": "×2" }],
+      "weaknesses": [{ "type": "Psychic", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -8327,7 +8327,7 @@
           "text": "Discard a Fire Energy attached to Ho-Oh."
         }
       ],
-      "weaknesses": [{ "type": "Water", "value": "×2" }],
+      "weaknesses": [{ "type": "Water", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -8408,7 +8408,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "resistances": [{ "type": "Water", "value": "-20" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
@@ -8502,7 +8502,7 @@
           "text": "Discard all Lightning Energy cards attached to Dark Ampharos or this attack does nothing."
         }
       ],
-      "weaknesses": [{ "type": "Fighting", "value": "×2" }],
+      "weaknesses": [{ "type": "Fighting", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -8590,7 +8590,7 @@
           "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -8682,7 +8682,7 @@
           "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
         }
       ],
-      "weaknesses": [{ "type": "Psychic", "value": "×2" }],
+      "weaknesses": [{ "type": "Psychic", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
       "set": {
@@ -8763,7 +8763,7 @@
           "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
         }
       ],
-      "weaknesses": [{ "type": "Fighting", "value": "×2" }],
+      "weaknesses": [{ "type": "Fighting", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -8839,7 +8839,7 @@
           "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -8920,11 +8920,11 @@
           "name": "Continuous Eggsplosion",
           "cost": ["Grass"],
           "convertedEnergyCost": 1,
-          "damage": "20×",
+          "damage": "20*",
           "text": "Flip a coin until you get tails. This attack does 20 damage for each heads."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -9011,11 +9011,11 @@
           "name": "Double Kick",
           "cost": ["Colorless", "Colorless", "Colorless"],
           "convertedEnergyCost": 3,
-          "damage": "50×",
+          "damage": "50*",
           "text": "Flip 2 coins. This attack does 50 damage times the number of heads."
         }
       ],
-      "weaknesses": [{ "type": "Water", "value": "×2" }],
+      "weaknesses": [{ "type": "Water", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -9175,7 +9175,7 @@
           "text": "Heal 30 damage from this Pokémon."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 4,
       "set": {
@@ -9252,7 +9252,7 @@
           "text": "The Defending Pokémon is now Poisoned."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -9343,7 +9343,7 @@
           "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
         }
       ],
-      "weaknesses": [{ "type": "Psychic", "value": "×2" }],
+      "weaknesses": [{ "type": "Psychic", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
       "set": {
@@ -9433,7 +9433,7 @@
           "text": "This attack's damage isn't affected by Weakness or Resistance."
         }
       ],
-      "weaknesses": [{ "type": "Psychic", "value": "×2" }],
+      "weaknesses": [{ "type": "Psychic", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -9513,7 +9513,7 @@
           "text": "Don't apply Weakness and Resistance for this attack. (Any other effects that would happen after applying Weakness and Resistance still happen.)"
         }
       ],
-      "weaknesses": [{ "type": "Psychic", "value": "×2" }],
+      "weaknesses": [{ "type": "Psychic", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
       "set": {
@@ -9795,7 +9795,7 @@
           "text": "Flip a coin. If heads, this attack does 20 more damage."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "resistances": [{ "type": "Water", "value": "-20" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
@@ -9959,7 +9959,7 @@
           "text": "Blastoise does 10 damage to itself. Flip a coin. If heads, prevent all damage done to Blastoise by attacks during your opponent's next turn."
         }
       ],
-      "weaknesses": [{ "type": "Lightning", "value": "×2" }],
+      "weaknesses": [{ "type": "Lightning", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -10045,7 +10045,7 @@
           "text": "The Defending Pokémon can't retreat during your opponent's next turn."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -10136,7 +10136,7 @@
           "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -10235,7 +10235,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Lightning", "value": "×2" }],
+      "weaknesses": [{ "type": "Lightning", "value": "*2" }],
       "resistances": [{ "type": "Fighting", "value": "-30" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
@@ -10325,7 +10325,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "resistances": [{ "type": "Water", "value": "-20" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
@@ -10413,7 +10413,7 @@
           "text": "This attack does 20 more damage for each of your Benched Pokémon."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -10504,7 +10504,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "resistances": [{ "type": "Water", "value": "-20" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
@@ -10584,11 +10584,11 @@
           "name": "Triple Stab",
           "cost": ["Grass"],
           "convertedEnergyCost": 1,
-          "damage": "10×",
+          "damage": "10*",
           "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -10666,7 +10666,7 @@
           "text": "Search your deck for up to 2 Grass Pokémon, reveal them, and put them into your hand. Then, shuffle your deck."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -10768,7 +10768,7 @@
           "text": "Flip a coin. If heads, this attack does 40 damage plus 20 more damage. If tails, this attack does 40 damage and the Defending Pokémon is now Paralyzed."
         }
       ],
-      "weaknesses": [{ "type": "Fighting", "value": "×2" }],
+      "weaknesses": [{ "type": "Fighting", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
       "set": {
@@ -10858,7 +10858,7 @@
           "text": "Discard 2 Energy cards attached to Charizard in order to use this attack."
         }
       ],
-      "weaknesses": [{ "type": "Water", "value": "×2" }],
+      "weaknesses": [{ "type": "Water", "value": "*2" }],
       "resistances": [{ "type": "Fighting", "value": "-30" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
@@ -11040,7 +11040,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -11128,7 +11128,7 @@
           "text": "Don't apply Resistance."
         }
       ],
-      "weaknesses": [{ "type": "Lightning", "value": "×2" }],
+      "weaknesses": [{ "type": "Lightning", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -11279,7 +11279,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -11553,7 +11553,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
       "set": {
@@ -11654,7 +11654,7 @@
           "text": "Discard an Energy card attached to the Defending Pokémon."
         }
       ],
-      "weaknesses": [{ "type": "Lightning", "value": "×2" }],
+      "weaknesses": [{ "type": "Lightning", "value": "*2" }],
       "resistances": [{ "type": "Fighting", "value": "-20" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
@@ -11746,7 +11746,7 @@
           "text": "Discard 2 basic Energy cards attached to Flareon or this attack does nothing."
         }
       ],
-      "weaknesses": [{ "type": "Water", "value": "×2" }],
+      "weaknesses": [{ "type": "Water", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -11830,7 +11830,7 @@
           "text": "The Defending Pokémon is now Poisoned. This attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
         }
       ],
-      "weaknesses": [{ "type": "Psychic", "value": "×2" }],
+      "weaknesses": [{ "type": "Psychic", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -11920,7 +11920,7 @@
           "text": "Does 30 damage plus 10 more damage for each type of basic Energy card attached to Flygon."
         }
       ],
-      "weaknesses": [{ "type": "Colorless", "value": "×2" }],
+      "weaknesses": [{ "type": "Colorless", "value": "*2" }],
       "resistances": [
         { "type": "Fire", "value": "-30" },
         { "type": "Lightning", "value": "-30" }
@@ -12288,7 +12288,7 @@
           "text": "Before doing damage, you may flip a coin. If tails, this attack does nothing. If heads, this attack does 60 damage instead."
         }
       ],
-      "weaknesses": [{ "type": "Psychic", "value": "×2" }],
+      "weaknesses": [{ "type": "Psychic", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -12373,7 +12373,7 @@
           "text": "Return 2 Energy attached to Deoxys to your hand."
         }
       ],
-      "weaknesses": [{ "type": "Psychic", "value": "×2" }],
+      "weaknesses": [{ "type": "Psychic", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -12465,7 +12465,7 @@
           "text": "The Defending Pokémon is now Poisoned."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "resistances": [{ "type": "Water", "value": "-20" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
@@ -12544,7 +12544,7 @@
           "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -12637,7 +12637,7 @@
           "text": "If the Defending Pokémon already has any damage counters on it, the Defending Pokémon is now Confused."
         }
       ],
-      "weaknesses": [{ "type": "Lightning", "value": "×2" }],
+      "weaknesses": [{ "type": "Lightning", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -12901,7 +12901,7 @@
           "text": "Your opponent's Active Pokémon is now Paralyzed and Poisoned."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 4,
       "set": {
@@ -12987,7 +12987,7 @@
           "text": "Heal 10 damage from this Pokémon."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "resistances": [{ "type": "Water", "value": "-20" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
@@ -13073,7 +13073,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -13158,7 +13158,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -13244,7 +13244,7 @@
           "text": "The Defending Pokémon is now Poisoned."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "resistances": [{ "type": "Water", "value": "-20" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
@@ -13322,7 +13322,7 @@
           "text": "Shuffle your hand into your deck."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "resistances": [{ "type": "Psychic", "value": "-20" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
@@ -13406,7 +13406,7 @@
           "text": "Flip a coin. If heads, this attack does 10 more damage."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "resistances": [{ "type": "Water", "value": "-20" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
@@ -13564,7 +13564,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Water", "value": "×2" }],
+      "weaknesses": [{ "type": "Water", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -13641,7 +13641,7 @@
           "name": "Slam",
           "cost": ["Colorless", "Colorless"],
           "convertedEnergyCost": 2,
-          "damage": "20×",
+          "damage": "20*",
           "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
         },
         {
@@ -13652,7 +13652,7 @@
           "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
         }
       ],
-      "weaknesses": [{ "type": "Grass", "value": "×2" }],
+      "weaknesses": [{ "type": "Grass", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
       "set": {
@@ -13739,7 +13739,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fighting", "value": "×2" }],
+      "weaknesses": [{ "type": "Fighting", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -13829,7 +13829,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
       "set": {
@@ -13913,7 +13913,7 @@
           "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
         }
       ],
-      "weaknesses": [{ "type": "Lightning", "value": "×2" }],
+      "weaknesses": [{ "type": "Lightning", "value": "*2" }],
       "resistances": [{ "type": "Fighting", "value": "-20" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
@@ -14006,7 +14006,7 @@
           "text": "Flip a coin for each of your opponent's Pokémon. For each heads, this attack does 10 damage to that Pokémon. Don't apply Weakness and Resistance. Remove a number of damage counters from Dark Crobat equal to the damage dealt. If Dark Crobat has fewer damage counters than that, remove all of them."
         }
       ],
-      "weaknesses": [{ "type": "Psychic", "value": "×2" }],
+      "weaknesses": [{ "type": "Psychic", "value": "*2" }],
       "resistances": [{ "type": "Fighting", "value": "-30" }],
       "set": {
         "id": "neo4",
@@ -14094,7 +14094,7 @@
           "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
         }
       ],
-      "weaknesses": [{ "type": "Psychic", "value": "×2" }],
+      "weaknesses": [{ "type": "Psychic", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -14180,11 +14180,11 @@
           "name": "Slam",
           "cost": ["Lightning", "Colorless"],
           "convertedEnergyCost": 2,
-          "damage": "30×",
+          "damage": "30*",
           "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
         }
       ],
-      "weaknesses": [{ "type": "Dragon", "value": "×2" }],
+      "weaknesses": [{ "type": "Dragon", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -14269,7 +14269,7 @@
           "text": "Heal 40 damage from this Pokémon."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -14354,7 +14354,7 @@
           "text": "This Pokémon does 10 damage to itself."
         }
       ],
-      "weaknesses": [{ "type": "Water", "value": "×2" }],
+      "weaknesses": [{ "type": "Water", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -14439,7 +14439,7 @@
           "text": "Flip a coin. If heads, discard 1 Energy attached to the Defending Pokémon."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "resistances": [{ "type": "Grass", "value": "-30" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
@@ -14523,7 +14523,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fighting", "value": "×2" }],
+      "weaknesses": [{ "type": "Fighting", "value": "*2" }],
       "resistances": [{ "type": "Psychic", "value": "-20" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
@@ -14614,7 +14614,7 @@
           "text": "Flip a coin. If heads, this attack does 30 more damage."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "resistances": [{ "type": "Water", "value": "-20" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 4,
@@ -14706,7 +14706,7 @@
           "text": "During your next turn, Deoxys's attacks do 40 more damage to the Defending Pokémon (before applying Weakness and Resistance)."
         }
       ],
-      "weaknesses": [{ "type": "Psychic", "value": "×2" }],
+      "weaknesses": [{ "type": "Psychic", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -14795,7 +14795,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
       "set": {
@@ -14875,7 +14875,7 @@
           "text": "Flip a coin. If heads, this attack does 20 more damage."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "resistances": [{ "type": "Water", "value": "-20" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
@@ -14967,7 +14967,7 @@
           "text": "Your opponent's Active Pokémon is now Confused and Poisoned."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -15049,7 +15049,7 @@
           "name": "Slam",
           "cost": ["Colorless", "Colorless", "Colorless", "Colorless"],
           "convertedEnergyCost": 4,
-          "damage": "40×",
+          "damage": "40*",
           "text": "Flip 2 coins. This attack does 40 damage times the number of heads."
         }
       ],
@@ -15240,7 +15240,7 @@
           "text": "If the Defending Pokémon is Pokémon-ex, this attack does 60 damage plus 40 more damage."
         }
       ],
-      "weaknesses": [{ "type": "Fighting", "value": "×2" }],
+      "weaknesses": [{ "type": "Fighting", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -15316,7 +15316,7 @@
           "text": "Heal 10 damage from this Pokémon."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -15410,7 +15410,7 @@
           "text": "Your opponent's Active Pokémon is now Burned."
         }
       ],
-      "weaknesses": [{ "type": "Water", "value": "×2" }],
+      "weaknesses": [{ "type": "Water", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -15502,7 +15502,7 @@
           "text": "You may discard all Lightning Energy attached to Ampharos. If you do, the Defending Pokémon is now Burned and Confused."
         }
       ],
-      "weaknesses": [{ "type": "Fighting", "value": "×2" }],
+      "weaknesses": [{ "type": "Fighting", "value": "*2" }],
       "resistances": [{ "type": "Metal", "value": "-30" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
@@ -15581,11 +15581,11 @@
           "name": "Flail Around",
           "cost": ["Grass"],
           "convertedEnergyCost": 1,
-          "damage": "10×",
+          "damage": "10*",
           "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "resistances": [{ "type": "Water", "value": "-20" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
@@ -15672,7 +15672,7 @@
           "text": "You may return an Energy card attached to Flareon to your hand. If you do, the Defending Pokémon is now Burned."
         }
       ],
-      "weaknesses": [{ "type": "Water", "value": "×2" }],
+      "weaknesses": [{ "type": "Water", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -15755,7 +15755,7 @@
           "text": "Your opponent's Active Pokémon is now Asleep."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -15853,7 +15853,7 @@
           "text": "Does 20 damage to 2 of your opponent's Benched Pokémon (1 if there is only 1). (Don't apply Weakness and Resistance for Benched Pokémon.)"
         }
       ],
-      "weaknesses": [{ "type": "Water", "value": "×2" }],
+      "weaknesses": [{ "type": "Water", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 4,
       "set": {
@@ -15943,7 +15943,7 @@
           "text": "Draw cards until you have 7 cards in your hand."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "resistances": [{ "type": "Psychic", "value": "-20" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
@@ -16041,7 +16041,7 @@
           "text": "The Defending Pokémon can't retreat during your opponent's next turn."
         }
       ],
-      "weaknesses": [{ "type": "Water", "value": "×2" }],
+      "weaknesses": [{ "type": "Water", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -16124,7 +16124,7 @@
           "text": "Flip 2 coins. This attack does 10 more damage for each heads."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -16209,7 +16209,7 @@
           "text": "During your next turn, Hustle Punch attack's base damage is 50 instead of 70."
         }
       ],
-      "weaknesses": [{ "type": "Psychic", "value": "×2" }],
+      "weaknesses": [{ "type": "Psychic", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -16391,7 +16391,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
       "set": {
@@ -16492,7 +16492,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -16591,7 +16591,7 @@
           "text": "If the Defending Pokémon is affected by a Special Condition, this attack does 50 damage plus 20 more damage."
         }
       ],
-      "weaknesses": [{ "type": "Grass", "value": "×2" }],
+      "weaknesses": [{ "type": "Grass", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
       "set": {
@@ -16675,11 +16675,11 @@
           "name": "Hurricane Tail",
           "cost": ["Grass", "Colorless", "Colorless", "Colorless"],
           "convertedEnergyCost": 4,
-          "damage": "60×",
+          "damage": "60*",
           "text": "Flip 4 coins. This attack does 60 damage times the number of heads."
         }
       ],
-      "weaknesses": [{ "type": "Dragon", "value": "×2" }],
+      "weaknesses": [{ "type": "Dragon", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
       "set": {
@@ -16855,7 +16855,7 @@
           "text": "Does 20 damage to each of your opponent's Benched Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
         }
       ],
-      "weaknesses": [{ "type": "Metal", "value": "×2" }],
+      "weaknesses": [{ "type": "Metal", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 4,
       "set": {
@@ -16948,7 +16948,7 @@
           "text": "Discard an Energy from this Pokémon."
         }
       ],
-      "weaknesses": [{ "type": "Water", "value": "×2" }],
+      "weaknesses": [{ "type": "Water", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -17033,7 +17033,7 @@
           "text": "Your opponent's Active Pokémon is now Poisoned."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -17134,7 +17134,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -17236,7 +17236,7 @@
           "text": "If your opponent has any Benched Pokémon, choose 2 of them (or 1 if he or she only has 1). This attack does 20 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.)"
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -17325,7 +17325,7 @@
           "text": "You may move all Energy cards attached to Dark Electrode to your Benched Pokémon in any way you like."
         }
       ],
-      "weaknesses": [{ "type": "Fighting", "value": "×2" }],
+      "weaknesses": [{ "type": "Fighting", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -17411,11 +17411,11 @@
           "name": "Double Stab",
           "cost": ["Grass", "Grass", "Colorless"],
           "convertedEnergyCost": 3,
-          "damage": "40×",
+          "damage": "40*",
           "text": "Flip 2 coins. This attack does 40 damage times the number of heads."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -17571,7 +17571,7 @@
       "abilities": [
         {
           "name": "Allergy Panic",
-          "text": "Apply Weakness for each Pokémon (both yours and your opponent's) as ×4 instead.",
+          "text": "Apply Weakness for each Pokémon (both yours and your opponent's) as *4 instead.",
           "type": "Ability"
         }
       ],
@@ -17584,7 +17584,7 @@
           "text": "The Defending Pokémon is now Asleep and Poisoned."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "resistances": [{ "type": "Water", "value": "-20" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
@@ -17669,7 +17669,7 @@
           "text": "Discard the top 3 cards of your deck. This attack does 60 damage plus 20 more damage for each Fire or Metal Energy card you discarded."
         }
       ],
-      "weaknesses": [{ "type": "Water", "value": "×2" }],
+      "weaknesses": [{ "type": "Water", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
       "set": {
@@ -17754,7 +17754,7 @@
           "text": "Discard an Energy attached to this Pokémon."
         }
       ],
-      "weaknesses": [{ "type": "Lightning", "value": "×2" }],
+      "weaknesses": [{ "type": "Lightning", "value": "*2" }],
       "resistances": [{ "type": "Fighting", "value": "-20" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
@@ -17842,7 +17842,7 @@
           "text": "Heal 20 damage from this Pokémon."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "resistances": [{ "type": "Water", "value": "-20" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
@@ -17935,7 +17935,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Lightning", "value": "×2" }],
+      "weaknesses": [{ "type": "Lightning", "value": "*2" }],
       "resistances": [{ "type": "Fighting", "value": "-20" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
@@ -18028,7 +18028,7 @@
           "text": "Move as many Grass Energy attached to your Pokémon to your other Pokémon in any way you like."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -18188,11 +18188,11 @@
           "name": "Bullet Seed",
           "cost": ["Grass"],
           "convertedEnergyCost": 1,
-          "damage": "10×",
+          "damage": "10*",
           "text": "Flip 4 coins. This attack does 10 damage times the number of heads."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "resistances": [{ "type": "Water", "value": "-20" }],
       "set": {
         "id": "bw6",
@@ -18374,7 +18374,7 @@
           "text": "This attack's damage isn't affected by Weakness or Resistance."
         }
       ],
-      "weaknesses": [{ "type": "Psychic", "value": "×2" }],
+      "weaknesses": [{ "type": "Psychic", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -18460,11 +18460,11 @@
           "name": "Knife Leaf",
           "cost": ["Grass", "Grass", "Colorless"],
           "convertedEnergyCost": 3,
-          "damage": "30×",
+          "damage": "30*",
           "text": "Flip 3 coins. This attack does 30 damage times the number of heads."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "resistances": [{ "type": "Water", "value": "-30" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
@@ -18547,7 +18547,7 @@
           "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
         }
       ],
-      "weaknesses": [{ "type": "Fighting", "value": "×2" }],
+      "weaknesses": [{ "type": "Fighting", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -18631,7 +18631,7 @@
           "text": "Discard 2 Energy cards attached to Charizard or this attack does nothing."
         }
       ],
-      "weaknesses": [{ "type": "Water", "value": "×2" }],
+      "weaknesses": [{ "type": "Water", "value": "*2" }],
       "resistances": [{ "type": "Fighting", "value": "-30" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
@@ -18722,7 +18722,7 @@
           "text": "The Defending Pokémon is now Asleep and Poisoned. Before applying this effect, you may switch 1 of your opponent's Benched Pokémon with 1 of the Defending Pokémon. If you do, the new Defending Pokémon is now Asleep and Poisoned. Your opponent chooses the Defending Pokémon to switch."
         }
       ],
-      "weaknesses": [{ "type": "Psychic", "value": "×2" }],
+      "weaknesses": [{ "type": "Psychic", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -18805,7 +18805,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -18898,7 +18898,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "resistances": [{ "type": "Water", "value": "-20" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
@@ -18985,7 +18985,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Grass", "value": "×2" }],
+      "weaknesses": [{ "type": "Grass", "value": "*2" }],
       "resistances": [{ "type": "Lightning", "value": "-30" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
@@ -19064,7 +19064,7 @@
           "name": "Hard Crush",
           "cost": ["Fire", "Colorless", "Colorless"],
           "convertedEnergyCost": 3,
-          "damage": "50×",
+          "damage": "50*",
           "text": "Discard the top 3 cards from your deck. This attack does 50 damage times the number of Energy cards you discarded."
         },
         {
@@ -19075,7 +19075,7 @@
           "text": "Discard 2 Fire Energy attached to Magmortar."
         }
       ],
-      "weaknesses": [{ "type": "Water", "value": "×2" }],
+      "weaknesses": [{ "type": "Water", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -19154,7 +19154,7 @@
           "name": "Triple Kick",
           "cost": ["Fighting"],
           "convertedEnergyCost": 1,
-          "damage": "20×",
+          "damage": "20*",
           "text": "Flip 3 coins. This attack does 20 damage times the number of heads."
         },
         {
@@ -19165,7 +19165,7 @@
           "text": "During your opponent's next turn, any damage done to Hitmontop by attacks is increased by 20 (after applying Weakness and Resistance)."
         }
       ],
-      "weaknesses": [{ "type": "Psychic", "value": "×2" }],
+      "weaknesses": [{ "type": "Psychic", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -19257,7 +19257,7 @@
           "text": "The Defending Pokémon is now Poisoned."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "resistances": [{ "type": "Water", "value": "-20" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 4,
@@ -19340,7 +19340,7 @@
           "text": "If the Defending Pokémon is a Water Pokémon, this attack does 60 damage plus 40 more damage."
         }
       ],
-      "weaknesses": [{ "type": "Water", "value": "×2" }],
+      "weaknesses": [{ "type": "Water", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 4,
       "set": {
@@ -19414,7 +19414,7 @@
           "text": "This Pokémon does 10 damage to itself."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -19513,7 +19513,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Darkness", "value": "×2" }],
+      "weaknesses": [{ "type": "Darkness", "value": "*2" }],
       "resistances": [{ "type": "Fighting", "value": "-30" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
@@ -19603,7 +19603,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
       "set": {
@@ -19691,11 +19691,11 @@
           "name": "Pin Missile",
           "cost": ["Lightning", "Colorless", "Colorless"],
           "convertedEnergyCost": 3,
-          "damage": "20×",
+          "damage": "20*",
           "text": "Flip 4 coins. This attack does 20 damage times the number of heads."
         }
       ],
-      "weaknesses": [{ "type": "Fighting", "value": "×2" }],
+      "weaknesses": [{ "type": "Fighting", "value": "*2" }],
       "resistances": [{ "type": "Metal", "value": "-30" }],
       "set": {
         "id": "pop3",
@@ -19779,7 +19779,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Colorless", "value": "×2" }],
+      "weaknesses": [{ "type": "Colorless", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -19856,7 +19856,7 @@
           "name": "Slam",
           "cost": ["Colorless", "Colorless"],
           "convertedEnergyCost": 2,
-          "damage": "30×",
+          "damage": "30*",
           "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
         },
         {
@@ -19960,7 +19960,7 @@
           "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
         }
       ],
-      "weaknesses": [{ "type": "Fighting", "value": "×2" }],
+      "weaknesses": [{ "type": "Fighting", "value": "*2" }],
       "resistances": [{ "type": "Psychic", "value": "-30" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
@@ -20123,7 +20123,7 @@
           "text": "Move a Lightning Energy card attached to Electivire FB to 1 of your Benched Pokémon."
         }
       ],
-      "weaknesses": [{ "type": "Fighting", "value": "×2" }],
+      "weaknesses": [{ "type": "Fighting", "value": "*2" }],
       "resistances": [{ "type": "Metal", "value": "-20" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
@@ -20373,7 +20373,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -20465,7 +20465,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -20558,7 +20558,7 @@
           "text": "Does 40 damage plus 10 more damage for each Water Energy attached to Blastoise but not used to pay for this attack's Energy cost. Extra Water Energy after the 2nd doesn't count."
         }
       ],
-      "weaknesses": [{ "type": "Lightning", "value": "×2" }],
+      "weaknesses": [{ "type": "Lightning", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
       "set": {
@@ -20641,7 +20641,7 @@
           "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -20726,7 +20726,7 @@
           "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -20826,7 +20826,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Lightning", "value": "×2" }],
+      "weaknesses": [{ "type": "Lightning", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
       "set": {
@@ -20914,7 +20914,7 @@
           "text": "This Pokémon does 50 damage to itself."
         }
       ],
-      "weaknesses": [{ "type": "Water", "value": "×2" }],
+      "weaknesses": [{ "type": "Water", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
       "set": {
@@ -20990,7 +20990,7 @@
           "text": "If your opponent's Active Pokémon is a Grass Pokémon, this attack does 20 more damage."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -21082,7 +21082,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Psychic", "value": "×2" }],
+      "weaknesses": [{ "type": "Psychic", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
@@ -21165,7 +21165,7 @@
           "text": "This attack does 10 more damage for each Colorless in your opponent's Active Pokémon's Retreat Cost."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 4,
       "set": {
@@ -21256,7 +21256,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -21348,7 +21348,7 @@
           "text": "You may discard a Fire Energy or Darkness Energy attached to Dark Houndoom. If you do, this attack does 40 damage plus 20 more damage."
         }
       ],
-      "weaknesses": [{ "type": "Fighting", "value": "×2" }],
+      "weaknesses": [{ "type": "Fighting", "value": "*2" }],
       "resistances": [{ "type": "Psychic", "value": "-30" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
@@ -21434,11 +21434,11 @@
           "name": "Draining Cut",
           "cost": ["Grass", "Colorless"],
           "convertedEnergyCost": 2,
-          "damage": "40×",
+          "damage": "40*",
           "text": "Flip 2 coins. This attack does 40 damage times the number of heads. Heal from this Pokémon the same amount of damage you did to the Defending Pokémon."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless"],
       "convertedRetreatCost": 1,
       "set": {
@@ -21523,7 +21523,7 @@
           "text": ""
         }
       ],
-      "weaknesses": [{ "type": "Water", "value": "×2" }],
+      "weaknesses": [{ "type": "Water", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless", "Colorless"],
       "convertedRetreatCost": 3,
       "set": {
@@ -21608,7 +21608,7 @@
           "text": "Flip a coin. If heads, this attack does 30 more damage."
         }
       ],
-      "weaknesses": [{ "type": "Fire", "value": "×2" }],
+      "weaknesses": [{ "type": "Fire", "value": "*2" }],
       "retreatCost": ["Colorless", "Colorless"],
       "convertedRetreatCost": 2,
       "set": {
