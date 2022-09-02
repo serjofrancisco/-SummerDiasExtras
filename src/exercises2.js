@@ -29,6 +29,18 @@ function getHowManyCardsPrinted(cards) {
     return cards.reduce((acc, card) => acc + card.set.printedTotal, 0);
 }
 
+// console.log(getHowManyCardsPrinted(cards))
+
+function getHowManyCardsPrintedForEach(cards) {
+    let total = 0
+    cards.forEach(card => {
+        total += card.set.printedTotal;
+    })
+    return total;
+}
+
+// console.log(getHowManyCardsPrintedForEach(cards))
+
 const newobj = {
     'Dragonite δ': [
         { type: 'Grass', value: '-30' },
@@ -69,11 +81,11 @@ function getStrongestPkm(cards, lenght) {
     return obj
 }
 const length = getBiggestLength(newobj)
-console.log(getStrongestPkm(newobj, length))
+// console.log(getStrongestPkm(newobj, length))
 // getResistances(cards);
 // console.log(getHowManyCardsPrinted(cards))
 // console.log(getPkmByNames(cards, 'Charizard', 'Pikachu'));
-// console.log(getPkmRegex(cards, /.*Chari.*/));
+console.log(getPkmRegex(cards, /.*Chari.*/));
 //  console.log(getPkm(cards, 'Charizard'));
 // console.log(getAllNames(cards));
 // console.log(getNameAndAttacks(cards[0], 'text'));

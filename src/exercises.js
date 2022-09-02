@@ -28,8 +28,12 @@ const infos = [
       },
     },
   ];
-
-
+  const keys = infos.map((e) => Object.keys(e));
+  console.log(keys)
+  
+  const keysFlat = infos.flatMap((e) => Object.keys(e));
+  console.log(keysFlat)
+  
 
 
  const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, -1, -2, -3, -4, -5, -6, -7, -8, -9, -10];
@@ -46,7 +50,7 @@ function getLowestNumber(arr) {
     return menor;
 }
 
-console.log(getLowestNumber(arr));
+// console.log(getLowestNumber(arr));
 
 
 // function sum(array, ...array2) {

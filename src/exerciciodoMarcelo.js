@@ -9,4 +9,4 @@ arr.forEach((item) => {
     }
 });
 
-console.log(obj);
+console.log([]);
